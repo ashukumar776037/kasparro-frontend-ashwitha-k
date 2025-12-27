@@ -1,0 +1,25 @@
+[
+  {
+    "label": "AI Visibility Score",
+    "value": 76,
+    "change": 12,
+    "unit": "/100"
+  },
+  {
+    "label": "Trust / EEAT Score",
+    "value": 72,
+    "change": 5,
+    "unit": "/100"
+  },
+  {
+    "label": "Non-Branded Keyword Coverage",
+    "value": 58,
+    "change": -3,
+    "unit": "%"
+  },
+  {
+    "label": "Last Audit",
+    "value": "2 days ago",
+    "unit": ""
+  }
+]

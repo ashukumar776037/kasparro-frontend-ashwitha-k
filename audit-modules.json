@@ -1,0 +1,196 @@
+[
+  {
+    "id": "content-quality",
+    "name": "Content Quality & Relevance",
+    "category": "Content",
+    "score": 87,
+    "status": "good",
+    "insights": [
+      "Strong topical authority in AI/ML domain",
+      "Content freshness score: 8.2/10",
+      "High semantic relevance to target queries"
+    ],
+    "issues": [
+      {
+        "severity": "medium",
+        "title": "Outdated statistics in 3 articles",
+        "description": "Articles reference 2022 data that should be updated to 2024"
+      },
+      {
+        "severity": "low",
+        "title": "Missing schema markup on 12 pages",
+        "description": "Technical documentation lacks structured data"
+      }
+    ],
+    "recommendations": [
+      "Update statistical references to 2024 data sources",
+      "Add more case studies and real-world examples",
+      "Implement schema.org markup for technical content",
+      "Expand content on emerging AI search trends"
+    ]
+  },
+  {
+    "id": "trust-eeat",
+    "name": "Trust & EEAT Signals",
+    "category": "Authority",
+    "score": 72,
+    "status": "good",
+    "insights": [
+      "Strong author credentials on technical content",
+      "Active engagement on industry platforms",
+      "Cited by 15+ authoritative sources"
+    ],
+    "issues": [
+      {
+        "severity": "high",
+        "title": "Missing author bios on 45% of articles",
+        "description": "Many blog posts lack clear author attribution and credentials"
+      },
+      {
+        "severity": "medium",
+        "title": "Limited third-party validation",
+        "description": "Few external reviews or testimonials visible to AI crawlers"
+      }
+    ],
+    "recommendations": [
+      "Add comprehensive author bios with credentials to all content",
+      "Implement structured author markup (schema.org/Person)",
+      "Encourage customers to leave reviews on major platforms",
+      "Build more backlinks from .edu and .gov domains"
+    ]
+  },
+  {
+    "id": "ai-citability",
+    "name": "AI Citability Score",
+    "category": "AI Optimization",
+    "score": 65,
+    "status": "warning",
+    "insights": [
+      "Good citation rate in technical queries",
+      "Strong presence in coding-related prompts",
+      "Referenced in 12% of relevant AI responses"
+    ],
+    "issues": [
+      {
+        "severity": "high",
+        "title": "Low citation in conversational queries",
+        "description": "Brand rarely cited when users ask natural language questions"
+      },
+      {
+        "severity": "medium",
+        "title": "Competing sources outrank you in 68% of queries",
+        "description": "Competitors are cited more frequently by AI models"
+      }
+    ],
+    "recommendations": [
+      "Optimize content for natural language question patterns",
+      "Create FAQ sections addressing common user queries",
+      "Improve content structure with clear, citation-friendly formats",
+      "Build more authoritative backlinks from AI-trusted sources"
+    ]
+  },
+  {
+    "id": "keyword-coverage",
+    "name": "Non-Branded Keyword Coverage",
+    "category": "Visibility",
+    "score": 58,
+    "status": "warning",
+    "insights": [
+      "Strong branded visibility (92%)",
+      "Good coverage in niche technical terms",
+      "Active in 23 relevant topic clusters"
+    ],
+    "issues": [
+      {
+        "severity": "high",
+        "title": "Weak presence in high-volume queries",
+        "description": "Missing from top 50 results for 12 key industry terms"
+      },
+      {
+        "severity": "high",
+        "title": "Limited coverage of adjacent topics",
+        "description": "Missing opportunities in related problem spaces"
+      }
+    ],
+    "recommendations": [
+      "Expand content to cover adjacent use cases",
+      "Target high-volume informational queries",
+      "Create pillar pages for core topics",
+      "Build topical authority through content clusters"
+    ]
+  },
+  {
+    "id": "entity-relationships",
+    "name": "Entity Relationships",
+    "category": "Knowledge Graph",
+    "score": 79,
+    "status": "good",
+    "insights": [
+      "Well-defined brand entity in knowledge graphs",
+      "Strong associations with key industry terms",
+      "Connected to 45+ relevant entities"
+    ],
+    "issues": [
+      {
+        "severity": "medium",
+        "title": "Weak connection to industry leaders",
+        "description": "Limited co-mentions with major players"
+      }
+    ],
+    "recommendations": [
+      "Pursue partnerships and co-marketing opportunities",
+      "Get featured in industry comparison articles",
+      "Participate in joint webinars and events",
+      "Build relationships with thought leaders"
+    ]
+  },
+  {
+    "id": "technical-seo",
+    "name": "Technical SEO Foundation",
+    "category": "Technical",
+    "score": 91,
+    "status": "excellent",
+    "insights": [
+      "Excellent site speed (Core Web Vitals pass)",
+      "Clean crawlability and indexation",
+      "Mobile-friendly across all pages"
+    ],
+    "issues": [
+      {
+        "severity": "low",
+        "title": "Minor issues with canonical tags",
+        "description": "3 pages have conflicting canonical declarations"
+      }
+    ],
+    "recommendations": [
+      "Fix canonical tag conflicts",
+      "Implement international hreflang if expanding globally",
+      "Consider implementing AMP for news content"
+    ]
+  },
+  {
+    "id": "brand-sentiment",
+    "name": "Brand Sentiment Analysis",
+    "category": "Reputation",
+    "score": 84,
+    "status": "good",
+    "insights": [
+      "Overwhelmingly positive sentiment (87%)",
+      "Strong word-of-mouth visibility",
+      "Active community engagement"
+    ],
+    "issues": [
+      {
+        "severity": "medium",
+        "title": "Limited response to negative feedback",
+        "description": "Several unaddressed negative reviews on G2"
+      }
+    ],
+    "recommendations": [
+      "Implement systematic review response process",
+      "Address concerns raised in negative feedback",
+      "Showcase customer success stories more prominently",
+      "Monitor and respond to social media mentions"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "brand-1",
+    "name": "TechCorp",
+    "domain": "techcorp.com",
+    "lastAuditDate": "2024-12-20T10:30:00Z"
+  },
+  {
+    "id": "brand-2",
+    "name": "AI Solutions Inc",
+    "domain": "aisolutions.io",
+    "lastAuditDate": "2024-12-18T14:20:00Z"
+  },
+  {
+    "id": "brand-3",
+    "name": "CloudScale",
+    "domain": "cloudscale.dev",
+    "lastAuditDate": "2024-12-15T09:15:00Z"
+  }
+]
